@@ -1,7 +1,6 @@
-# Culqi Magento Guide
-Guía de Instalación de Magento (test)
+# Guía de Instalación de Magento (test)
 
-Paso 1: Crear Categorías de tus Productos
+##Paso 1: Crear Categorías de tus Productos
 
 
 
@@ -47,7 +46,7 @@ De la misma forma puedes ir agregando las categorías que necesites.
 
 
 
-Pase 2: Agregar Nuevos Productos
+## Pase 2: Agregar Nuevos Productos
 
 
 
@@ -137,7 +136,7 @@ Por último le das clic a Save en la parte superior derecha, o a Save and Contin
 Con esto ya tendrás un nuevo producto en el inventario de tu tienda.
 
 
-Paso 3: Mostrar las productos en Magento
+## Paso 3: Mostrar las productos en Magento
 
 Aunque tengas creado los productos, Magento no los mostrará a menos que lo especifiques en la página correcta.
 
@@ -188,7 +187,7 @@ Ahora solo tienes que ir a tu página de inicio y ver tus productos.
 Ya estás listo para integrarte con Culqi.
 
 
-Paso 4: Instalación de Culqi para Magento
+## Paso 4: Instalación de Culqi para Magento
 
 Una vez descargado el archivo .zip de culqi, lo descomprimimos. Tendremos una carpeta llamada “Magento Culqi”.
 
@@ -233,4 +232,3 @@ Para confirmar la orden damos clic en PLACE ORDER y podremos ver un mensaje de c
 
 
 Ahora ya estás integrado con Culqi.
-
